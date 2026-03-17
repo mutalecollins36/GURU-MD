@@ -25,7 +25,7 @@
   </a>
 </p>
 
-> **Note:** Use my note in every script.
+> **Note:** It's GuruTech Forever respected.
 
 ---
 
